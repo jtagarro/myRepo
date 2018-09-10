@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edit master
+=======
+Edit 1
+>>>>>>> myBranch
